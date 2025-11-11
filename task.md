@@ -25,3 +25,6 @@ git clone https://github.com/ВАШ_АККАУНТ/НАЗВАНИЕ_РЕПОЗИ
 
 # Перейдите в папку проекта
 cd НАЗВАНИЕ_РЕПОЗИТОРИЯ
+
+Ссылка на Fork:
+https://github.com/Svyatoslava197/UP05EDU001.git
